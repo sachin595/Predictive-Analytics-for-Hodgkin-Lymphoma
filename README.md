@@ -31,7 +31,9 @@
 
 ## Introduction
 
-This project focuses on developing advanced predictive analytics for **Hodgkin Lymphoma (HL)** by utilizing a **Long Short-Term Memory (LSTM)** neural network. The model is designed to predict two key health metrics: **Crude Mortality Rate** (number of deaths per 100,000 individuals in a given year) and **Survival Rate** (likelihood of survival as a percentage). By leveraging demographic and temporal factors such as **age, sex, ethnicity, race, and year,** the model provides robust insights into health outcomes.
+**Hodgkin lymphoma** is characterized by a bimodal age distribution, with higher mortality rates observed among older patients. However, the influence of other demographic factors on mortality and survival remains less explored. Understanding these factors is crucial for improving patient outcomes and treatment strategies.
+
+This study leverages advanced predictive analytics by utilizing a **Long Short-Term Memory (LSTM)** neural network to analyze and project trends in Hodgkin lymphoma. The model is designed to predict two critical health metrics: **Crude Mortality Rate** (the number of deaths per 100,000 individuals annually) and **Survival Rate** (the percentage likelihood of survival). By incorporating a comprehensive dataset of demographic and temporal variables, including age, sex, ethnicity, race, and year, the model provides valuable insights into health outcomes. Additionally, this study examines current trends in Hodgkin lymphoma and offers a predictive framework to project future trends, supporting healthcare providers in developing more effective and personalized care strategies.
 
 Additionally, an interactive **diagnostic tool** has been deployed, allowing users to input specific demographic and temporal details to generate predictions. This tool serves as a practical application of the model, aiding researchers and healthcare professionals in assessing trends and disparities in **Hodgkin Lymphoma** outcomes. The project emphasizes precision and temporal modeling to support informed decision-making in public health and oncology.
 
